@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\bin\Debug\net8.0\Concrete Class Creation.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\bin\Debug\net8.0\Concrete Class Creation.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\bin\Debug\net8.0\Concrete Class Creation.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\bin\Debug\net8.0\Concrete Class Creation.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\bin\Debug\net8.0\Concrete Class Creation.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\refint\Concrete Class Creation.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\Concrete Class Creation.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day1\Concrete Class Creation\obj\Debug\net8.0\ref\Concrete Class Creation.dll

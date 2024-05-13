@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Concrete Class Creation/1.0.0": {
+        "runtime": {
+          "Concrete Class Creation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concrete Class Creation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
