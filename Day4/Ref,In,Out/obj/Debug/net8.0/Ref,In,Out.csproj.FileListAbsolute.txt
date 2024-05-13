@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\bin\Debug\net8.0\Ref,In,Out.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\bin\Debug\net8.0\Ref,In,Out.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\bin\Debug\net8.0\Ref,In,Out.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\bin\Debug\net8.0\Ref,In,Out.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\bin\Debug\net8.0\Ref,In,Out.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\refint\Ref,In,Out.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\Ref,In,Out.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Ref,In,Out\obj\Debug\net8.0\ref\Ref,In,Out.dll
