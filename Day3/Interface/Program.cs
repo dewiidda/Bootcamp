@@ -1,9 +1,47 @@
-﻿interface IShape()
+﻿
+public interface IBluetooth {
+	void Connect();
+	void Disconnect();
+}
+public interface IWireless
 {
-    void Draw();
+	void Connect();
+	void Disconnect();
+}
+public class Device : IBluetooth, IWireless
+{
+	public void Connect()
+	{
+		Console.WriteLine("IBluetooth Connect");
+	}
+
+	void IBluetooth.Disconnect()
+	{
+		Console.WriteLine("IBluetooth Disconnect");
+	}
+	void IWireless.Connect()
+	{
+		Console.WriteLine("IWireless Connect");
+	}
+
+	void IWireless.Disconnect()
+	{
+		Console.WriteLine("IWireless Disconnect");
+	}
 }
 
-class Rectangle : IShape
+class Program
 {
-    
+	static void Main()
+	{
+		Device device = new();
+		IBluetooth bluetooth = device;
+		bluetooth.Connect();
+		
+
+		IWireless wireless = device;
+		wireless.Connect();
+
+
+	}
 }
