@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day2\\Composition\\Composition.csproj",
-      "projectName": "Composition",
-      "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day2\\Composition\\Composition.csproj",
+      "projectUniqueName": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day6\\Collections\\Collections.csproj",
+      "projectName": "Collections",
+      "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day6\\Collections\\Collections.csproj",
       "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day2\\Composition\\obj\\",
+      "outputPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day6\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
