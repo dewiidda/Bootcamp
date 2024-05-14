@@ -1,37 +1,24 @@
 ﻿//Method => return type => float
 
 using System.Reflection;
-
-public delegate float MyDelegate(int a, int b);
-
 class Program
 {
 	static void Main()
 	{
 		Subscriber subscriber = new();
-		
+
+		//Multicast delegate -> delegate holds reference to more than one handler function
+		//We can add more reference to hold by using +=
 		MyDelegate del= subscriber.Add;
 		del += subscriber.Mul;
 		
 		float result = del(5,5);
-		
+		//We only call the last method(with return type)
+		//We can use array and save it using GetInvocationList
 		Delegate[] dell = del.GetInvocationList();
 		foreach(Delegate dg in dell)
 		{
 			Console.WriteLine(dg.GetMethodInfo().Name+":"+((MyDelegate)dg).Invoke(5,5));
 		}
-	}
-}
-
-class Subscriber
-{
-	public float Add(int a, int b)
-	{
-		return (a+b);
-	}
-
-	public float Mul(int a, int b)
-	{
-		return (a*b);
 	}
 }
