@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\bin\Debug\net8.0\Nullable value.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\bin\Debug\net8.0\Nullable value.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\bin\Debug\net8.0\Nullable value.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\bin\Debug\net8.0\Nullable value.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\bin\Debug\net8.0\Nullable value.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\refint\Nullable value.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\Nullable value.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Nullable value\obj\Debug\net8.0\ref\Nullable value.dll
