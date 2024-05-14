@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{55018353-0C72-4493-96C1-FF9ADFCD4A4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerator and Iterator", "Enumerator and Iterator\Enumerator and Iterator.csproj", "{E557F3C8-29EE-491E-BB8F-4437200A5E41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{55018353-0C72-4493-96C1-FF9ADFCD4A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55018353-0C72-4493-96C1-FF9ADFCD4A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55018353-0C72-4493-96C1-FF9ADFCD4A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E557F3C8-29EE-491E-BB8F-4437200A5E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E557F3C8-29EE-491E-BB8F-4437200A5E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E557F3C8-29EE-491E-BB8F-4437200A5E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E557F3C8-29EE-491E-BB8F-4437200A5E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
