@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\bin\Debug\net8.0\Anonymous method and Lambda expression.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\bin\Debug\net8.0\Anonymous method and Lambda expression.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\bin\Debug\net8.0\Anonymous method and Lambda expression.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\bin\Debug\net8.0\Anonymous method and Lambda expression.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\bin\Debug\net8.0\Anonymous method and Lambda expression.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\refint\Anonymous method and Lambda expression.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\Anonymous method and Lambda expression.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Anonymous method and Lambda expression\obj\Debug\net8.0\ref\Anonymous method and Lambda expression.dll
