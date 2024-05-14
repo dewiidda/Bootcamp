@@ -20,7 +20,5 @@ namespace Enumerator_and_Iterator
 	{
 		member.Dump();
 	}
-}
-
     }
 }
