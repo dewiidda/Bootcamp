@@ -1,16 +1,4 @@
 ﻿using System;
-
-    public class GenericClass<T1,T2>
-    {
-        public T1 Message;
-        public void GenericMethod(T1 Name, T1 Location, T2 Age)
-        {
-            Console.WriteLine($"Message: {Message}");
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Location: {Location}");
-            Console.WriteLine($"Age: {Age}");
-        }
-    }
     class Program
     {
         static void Main(string[] args)
