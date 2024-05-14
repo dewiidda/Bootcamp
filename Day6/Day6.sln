@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial Class", "Partial Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable value", "Nullable value\Nullable value.csproj", "{62121A35-EACC-4039-9181-E3FA037DB06D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator overloading", "Operator overloading\Operator overloading.csproj", "{A4E33A93-3308-4145-AC1F-E5809943290D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{62121A35-EACC-4039-9181-E3FA037DB06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62121A35-EACC-4039-9181-E3FA037DB06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62121A35-EACC-4039-9181-E3FA037DB06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E33A93-3308-4145-AC1F-E5809943290D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E33A93-3308-4145-AC1F-E5809943290D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E33A93-3308-4145-AC1F-E5809943290D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E33A93-3308-4145-AC1F-E5809943290D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
