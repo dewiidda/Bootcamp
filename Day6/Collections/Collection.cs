@@ -15,10 +15,10 @@ class Collection
     }
 
     //List
-    List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
-    foreach (var number in numbers)
+    List<string> bp = new List<string> { "Aisya","Rina","Mili" };
+    foreach (var member in bp)
     {
-        Console.WriteLine(number);
+        Console.WriteLine(member);
     }
 
     //LinkedList
@@ -30,20 +30,20 @@ class Collection
         Console.WriteLine(item);
     }
 
-    //HashSet
+    //HashSet, unique
     HashSet<int> set = new HashSet<int> { 1, 2, 2, 3 };
     foreach (var number in set)
     {
         Console.WriteLine(number); // Outputs: 1, 2, 3
     }
 
-    //Stack
+    //Stack LIFO
     Stack<int> stack = new Stack<int>();
     stack.Push(1);
     stack.Push(2);
     Console.WriteLine(stack.Pop()); // Outputs: 2
 
-    //Queue
+    //Queue FIFO
     Queue<int> queue = new Queue<int>();
     queue.Enqueue(1);
     queue.Enqueue(2);
