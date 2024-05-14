@@ -3,20 +3,16 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Days jumatan = Days.Jumat;        
-        int valueDays = (int)Days.Senin; // Konversi Hari ke int
-        Days valueDaysFromInt = (Days)1; // Konversi int ke Hari (Senin)
-
-        TraffictLight currentLight  = TrafficLight.Red;
+        TraffictLight currentLight  = TraffictLight.Red;
         switch (currentLight)
         {
-            case TrafficLight.Red:
+            case TraffictLight.Red:
                 Console.WriteLine("Stop");
                 break;
-            case TrafficLight.Green:
+            case TraffictLight.Green:
                 Console.WriteLine("Go");
                 break;
-            case TrafficLight.Blue:
+            case TraffictLight.Yellow:
                 Console.WriteLine("Prepare to stop");
                 break;
             default:
