@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\bin\Debug\net8.0\Operator overloading.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\bin\Debug\net8.0\Operator overloading.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\bin\Debug\net8.0\Operator overloading.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\bin\Debug\net8.0\Operator overloading.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\bin\Debug\net8.0\Operator overloading.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\refint\Operator overloading.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\Operator overloading.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day6\Operator overloading\obj\Debug\net8.0\ref\Operator overloading.dll
