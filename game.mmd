@@ -1,10 +1,47 @@
 classDiagram
-    class Animal {
-        -int sizeInFeet
-        -canEat()
+    IPlayer <|.. Player
+    ICard <|.. Card
+
+    GameController -- GameStatus
+    GameController *-- ICard
+    GameController *-- IPlayer
+    GameController *--PlayerData
+
+    PlayerData *-- ICard
+    class GameStatus{
+        <<enum>>
+        NotInitialized,
+        Initialized,
+        Ongoing,
+        End
     }
-    class Cat{
-        -species
-        +Meow()
+    class ICard{
+    <<interface>>
+    + ~get; - set;~ int Id
+    + ~get;~ string Name
     }
-    Animal <|-- Cat
+    class IPlayer{
+    <<interface>>
+    + id : int
+    + name : string
+    }
+    class Card{
+        ---
+    }
+    class Player{
+        isWinning() : bool
+    }
+    class PlayerData{
+        - List~Icard~ _cards
+    }
+    class GameController{
+        - Dictionary~IPlayer.PlayerData~ _players;
+        - GameStatus status;
+        - List~ICard~ onDeckCard;
+        - IPlayer _currentPlayer;
+        + GetCards() 
+        + GetCards(IPlayer player)
+        + AssignCard(IPlayer player, ICard card)
+        + RemoveCard(IPlayer player, ICard card)
+    }
+    
