@@ -1,0 +1,20 @@
+"Dodge" use case scenario: System spawn enemy spaceship in play area.
+spaceship fly towards player asteroid and fired missile at it. 
+player steer asteroid in direction to avoid missile path. 
+missile flies past player asteroid and dissapear offscreen.
+
+Noun = object
+-spaceship
+-play area
+-asteroid
+-missile
+-player
+-offscreen
+
+Relations
+-Player steer asteroid
+-asteroid avoid missile
+-spaceship fired missile
+-spaceship spawn
+-missile dissapear offscreen
+-spaceship fly towards player
