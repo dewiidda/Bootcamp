@@ -1,36 +1,24 @@
-﻿class Program
+﻿using Enum;
+class Program
 {
-    enum Days
-    {
-    Senin,
-    Selasa,
-    Rabu,
-    Kamis,
-    Jumat,
-    Sabtu,
-    Minggu
-    }
-
-    Days jumatan = Days.Jumat;
-    
-    switch (hariLibur)
-    {
-    case Hari.Sabtu:
-    case Hari.Minggu:
-    Console.WriteLine("Akhir pekan!");
-    break;
-    default:
-    Console.WriteLine("Hari kerja.");
-    break;
-    }
-
-    
-    int valueDays = (int)Hari.Senin; // Konversi Hari ke int
-    Days valueDaysFromInt = (Days)1; // Konversi int ke Hari (Senin)
-
     public static void Main(string[] args)
     {
-        
+        TraffictLight currentLight  = TraffictLight.Red;
+        switch (currentLight)
+        {
+            case TraffictLight.Red:
+                Console.WriteLine("Stop");
+                break;
+            case TraffictLight.Green:
+                Console.WriteLine("Go");
+                break;
+            case TraffictLight.Yellow:
+                Console.WriteLine("Prepare to stop");
+                break;
+            default:
+                Console.WriteLine("Unknown light");
+                break;
+        }
     }
 
 }

@@ -1,0 +1,5 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day4\Enum\obj\Debug\net8.0\Enum.sourcelink.json
