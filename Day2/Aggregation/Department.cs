@@ -9,7 +9,7 @@ namespace Aggregation
     {
         private List<Employee> employees; //Departemen berisi beberapa employee
 
-        public Department() //Constructor membuat tipe employees menjadi arraylist
+        public Department() //Constructor membuat tipe employees menjadi list
         {
             employees = new List<Employee>();
         }
