@@ -1,48 +1,19 @@
-﻿void Main()
-{
-	Circle circle = new();
-	circle.Draw(); //interface
-	
-	Rectangle rct = new();
-	rct.Draw(); //abstract class
-	rct.ChangeColor("Green");
-}
+﻿/*
+Consider an organization that has both permanent employees and contract employees. 
+Both types of employees share common information such as employee name and employee ID. 
+Instead of repeating this information, we can create an abstract class called Employee with common properties like Name and Id. 
+The employee’s salary calculation may vary based on the type of employee (permanent or contract). 
+We can let the PermanentEmployee and ContractEmployee classes provide custom logic for calculating the salary.
+*/
 
-class Rectangle : Shape
+using Abstract_Class;
+
+class Program
 {
-	public override void Draw()
+	static void Main()
 	{
-		Console.WriteLine("Ini implementasikan abstract method di abstract class");
+		var permanentEmp = new PermanentEmployee("Jennie", 400000000000);
+		var contractEmp = new ContractEmployee("Fadl", 1);
+
 	}
-}
-
-class Circle : IShape
-{
-	public void Draw()
-	{
-		Console.WriteLine("Ini implementasikan draw dari interface");
-	} 
-}
-
-class MyClass : IShape
-{
-	public void Draw()
-	{
-		
-	}
-}
-abstract class Shape
-{
-	public abstract void Draw();
-	public void ChangeColor(string color)
-	{
-		Console.WriteLine("Color change to"+color);
-	}
-}
-
-interface IShape //kontrak
-{
-	void Draw();
-	//void GetSize();
-	//void CalculateArea();
 }
