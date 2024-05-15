@@ -2,6 +2,13 @@
 using Kitchen;
 using Vehicle;
 
+
+/*
+Composition represents a strong ownership relationship between two classes, where one class owns the other.
+In composition:
+The composed object (the owned object) cannot exist independently of the owner object.
+When the owner object is destroyed, the composed object is also destroyed.
+*/
 class Program
 {
     static void Main()
