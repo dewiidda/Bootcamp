@@ -135,6 +135,7 @@ class GameController{
     -IBoard _board
     -List~IPlayer~ _turnOrder 
     -Dictionary~IPlayer, PlayerData~ _players
+    -Action ~IPiece, IPlayer~ FinishPlayer
     +GameController(int maxPlayer = 4, IDice dice, GameStatus status) 
     +StartGame() bool
     +GetGameStatus() GameStatus
