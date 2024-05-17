@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\bin\Debug\net8.0\Action Func Predicate.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\bin\Debug\net8.0\Action Func Predicate.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\bin\Debug\net8.0\Action Func Predicate.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\bin\Debug\net8.0\Action Func Predicate.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\bin\Debug\net8.0\Action Func Predicate.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\refint\Action Func Predicate.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\Action Func Predicate.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day9\Action Func Predicate\obj\Debug\net8.0\ref\Action Func Predicate.dll
