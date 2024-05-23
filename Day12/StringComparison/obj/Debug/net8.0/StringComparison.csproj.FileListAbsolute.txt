@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\bin\Debug\net8.0\StringComparison.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\bin\Debug\net8.0\StringComparison.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\bin\Debug\net8.0\StringComparison.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\bin\Debug\net8.0\StringComparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\bin\Debug\net8.0\StringComparison.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\refint\StringComparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\StringComparison.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringComparison\obj\Debug\net8.0\ref\StringComparison.dll

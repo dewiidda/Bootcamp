@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\bin\Debug\net8.0\StringBuilder Comparison.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\bin\Debug\net8.0\StringBuilder Comparison.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\bin\Debug\net8.0\StringBuilder Comparison.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\bin\Debug\net8.0\StringBuilder Comparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\bin\Debug\net8.0\StringBuilder Comparison.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\refint\StringBuilder Comparison.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\StringBuilder Comparison.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\StringBuilder Comparison\obj\Debug\net8.0\ref\StringBuilder Comparison.dll

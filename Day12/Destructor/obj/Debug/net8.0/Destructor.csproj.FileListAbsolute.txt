@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\bin\Debug\net8.0\Destructor.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\bin\Debug\net8.0\Destructor.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\bin\Debug\net8.0\Destructor.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\bin\Debug\net8.0\Destructor.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\bin\Debug\net8.0\Destructor.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\refint\Destructor.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\Destructor.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day12\Destructor\obj\Debug\net8.0\ref\Destructor.dll
