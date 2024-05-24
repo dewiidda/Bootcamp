@@ -1,0 +1,5 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Dispose\obj\Debug\net8.0\Dispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Dispose\obj\Debug\net8.0\Dispose.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Dispose\obj\Debug\net8.0\Dispose.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Dispose\obj\Debug\net8.0\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Dispose\obj\Debug\net8.0\Dispose.sourcelink.json
