@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\bin\Debug\net8.0\Using.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\bin\Debug\net8.0\Using.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\bin\Debug\net8.0\Using.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\bin\Debug\net8.0\Using.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\bin\Debug\net8.0\Using.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\refint\Using.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\Using.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Using\obj\Debug\net8.0\ref\Using.dll
