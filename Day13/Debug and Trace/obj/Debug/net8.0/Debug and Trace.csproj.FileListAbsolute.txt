@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\bin\Debug\net8.0\Debug and Trace.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\bin\Debug\net8.0\Debug and Trace.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\bin\Debug\net8.0\Debug and Trace.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\bin\Debug\net8.0\Debug and Trace.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\bin\Debug\net8.0\Debug and Trace.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\refint\Debug and Trace.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\Debug and Trace.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Debug and Trace\obj\Debug\net8.0\ref\Debug and Trace.dll
