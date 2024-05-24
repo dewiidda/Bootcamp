@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 class Program {
 	static void Main() {
-		string text = String.Empty;
+		string text = String.Empty; 
 		Stopwatch stopwatch = new Stopwatch();
 		stopwatch.Start();
 		for (int i = 0; i < 10000000; i++) {
