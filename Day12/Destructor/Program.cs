@@ -1,19 +1,22 @@
 ﻿class Program
 {
-    static void Main(){
+    static void Main()
+    {
         InstanceCreator();
         GC.Collect();
         GC.WaitForPendingFinalizers();
         Console.WriteLine("Wait for the next order");
     }
-    static void InstanceCreator(){
+    static void InstanceCreator()
+    {
         Child child = new();
     }
 }
 public class GrandParent
 {
     // Destructor
-    ~GrandParent(){
+    ~GrandParent()
+    {
         Console.WriteLine("GrandParent eliminated");
         Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
     }
@@ -21,7 +24,8 @@ public class GrandParent
 public class Parent : GrandParent
 {
     // Destructor
-    ~Parent(){
+    ~Parent()
+    {
         Console.WriteLine("Parent eliminated");
         Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
     }
@@ -29,7 +33,8 @@ public class Parent : GrandParent
 public class Child : Parent
 {
     // Destructor
-    ~Child(){
+    ~Child()
+    {
         Console.WriteLine("Child eliminated");
         Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
     }
