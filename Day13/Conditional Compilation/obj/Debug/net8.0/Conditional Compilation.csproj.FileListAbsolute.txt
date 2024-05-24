@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\bin\Debug\net8.0\Conditional Compilation.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\bin\Debug\net8.0\Conditional Compilation.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\bin\Debug\net8.0\Conditional Compilation.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\bin\Debug\net8.0\Conditional Compilation.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\bin\Debug\net8.0\Conditional Compilation.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\refint\Conditional Compilation.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\Conditional Compilation.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day13\Conditional Compilation\obj\Debug\net8.0\ref\Conditional Compilation.dll
