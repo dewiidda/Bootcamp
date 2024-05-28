@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\bin\Debug\net8.0\Task Exception.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\bin\Debug\net8.0\Task Exception.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\bin\Debug\net8.0\Task Exception.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\bin\Debug\net8.0\Task Exception.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\bin\Debug\net8.0\Task Exception.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\refint\Task Exception.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\Task Exception.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task Exception\obj\Debug\net8.0\ref\Task Exception.dll

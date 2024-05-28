@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\bin\Debug\net8.0\When.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\bin\Debug\net8.0\When.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\bin\Debug\net8.0\When.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\bin\Debug\net8.0\When.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\bin\Debug\net8.0\When.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\refint\When.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\When.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\When\obj\Debug\net8.0\ref\When.dll

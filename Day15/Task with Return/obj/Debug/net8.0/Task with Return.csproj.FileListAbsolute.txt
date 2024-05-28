@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\bin\Debug\net8.0\Task with Return.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\bin\Debug\net8.0\Task with Return.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\bin\Debug\net8.0\Task with Return.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\bin\Debug\net8.0\Task with Return.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\bin\Debug\net8.0\Task with Return.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\refint\Task with Return.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\Task with Return.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Task with Return\obj\Debug\net8.0\ref\Task with Return.dll

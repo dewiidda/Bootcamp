@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\bin\Debug\net8.0\Synchronous and Asynchronous.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\bin\Debug\net8.0\Synchronous and Asynchronous.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\bin\Debug\net8.0\Synchronous and Asynchronous.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\bin\Debug\net8.0\Synchronous and Asynchronous.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\bin\Debug\net8.0\Synchronous and Asynchronous.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\refint\Synchronous and Asynchronous.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\Synchronous and Asynchronous.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day15\Synchronous and Asynchronous\obj\Debug\net8.0\ref\Synchronous and Asynchronous.dll
