@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\bin\Debug\net8.0\SemaphoreSlim.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\bin\Debug\net8.0\SemaphoreSlim.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\bin\Debug\net8.0\SemaphoreSlim.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\bin\Debug\net8.0\SemaphoreSlim.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\bin\Debug\net8.0\SemaphoreSlim.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\refint\SemaphoreSlim.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\SemaphoreSlim.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day15\SemaphoreSlim\obj\Debug\net8.0\ref\SemaphoreSlim.dll
