@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\DataContract\\DataContract.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\DataContract\\DataContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\DataContract\\DataContract.csproj",
+        "projectName": "DataContract",
+        "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\DataContract\\DataContract.csproj",
+        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\DataContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.formulatrix.com/repository/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\JSON Serialization.csproj": {
+                "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\JSON Serialization.csproj"
+              },
+              "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\StreamWriter.csproj": {
+                "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\StreamWriter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\JSON Serialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\JSON Serialization.csproj",
+        "projectName": "JSON Serialization",
+        "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\JSON Serialization.csproj",
+        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\JSON Serialization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.formulatrix.com/repository/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\StreamWriter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\StreamWriter.csproj",
+        "projectName": "StreamWriter",
+        "projectPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\StreamWriter.csproj",
+        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FORMULATRIX\\Documents\\Bootcamp\\Day16\\StreamWriter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.formulatrix.com/repository/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
