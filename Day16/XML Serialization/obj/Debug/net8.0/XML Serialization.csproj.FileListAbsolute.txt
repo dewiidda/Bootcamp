@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\bin\Debug\net8.0\XML Serialization.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\bin\Debug\net8.0\XML Serialization.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\bin\Debug\net8.0\XML Serialization.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\bin\Debug\net8.0\XML Serialization.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\bin\Debug\net8.0\XML Serialization.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\refint\XML Serialization.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\XML Serialization.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\XML Serialization\obj\Debug\net8.0\ref\XML Serialization.dll

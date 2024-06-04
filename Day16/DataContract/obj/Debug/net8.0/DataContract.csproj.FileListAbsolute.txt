@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\bin\Debug\net8.0\DataContract.exe
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\bin\Debug\net8.0\DataContract.deps.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\bin\Debug\net8.0\DataContract.runtimeconfig.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\bin\Debug\net8.0\DataContract.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\bin\Debug\net8.0\DataContract.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.sourcelink.json
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\refint\DataContract.dll
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.pdb
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\DataContract.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Documents\Bootcamp\Day16\DataContract\obj\Debug\net8.0\ref\DataContract.dll

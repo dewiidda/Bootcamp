@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>Yusa</Name>
+    <Age>26</Age>
+  </Human>
+  <Human>
+    <Name>Ega</Name>
+    <Age>22</Age>
+  </Human>
+  <Human>
+    <Name>Rizqy</Name>
+    <Age>24</Age>
+  </Human>
+  <Human>
+    <Name>Fadl</Name>
+    <Age>23</Age>
+  </Human>
+  <Human>
+    <Name>Dewi</Name>
+    <Age>25</Age>
+  </Human>
+  <Human>
+    <Name>Wulan</Name>
+    <Age>29</Age>
+  </Human>
+  <Human>
+    <Name>Bela</Name>
+    <Age>24</Age>
+  </Human>
+  <Human>
+    <Name>Jun</Name>
+    <Age>23</Age>
+  </Human>
+</ArrayOfHuman>
