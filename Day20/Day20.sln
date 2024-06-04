@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP\ISP.csproj", "{B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP", "DIP\DIP.csproj", "{04A15896-CE7C-41F2-9ADE-148A455EE0C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{BA8768BF-D829-48C2-93F4-742B058AA5DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{04A15896-CE7C-41F2-9ADE-148A455EE0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A15896-CE7C-41F2-9ADE-148A455EE0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A15896-CE7C-41F2-9ADE-148A455EE0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8768BF-D829-48C2-93F4-742B058AA5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8768BF-D829-48C2-93F4-742B058AA5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8768BF-D829-48C2-93F4-742B058AA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8768BF-D829-48C2-93F4-742B058AA5DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
