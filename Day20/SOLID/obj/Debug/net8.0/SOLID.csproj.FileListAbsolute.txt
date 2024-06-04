@@ -1,0 +1,15 @@
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.sourcelink.json
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\Users\Dewi\OneDrive\Documents\C#\Clone\Bootcamp\Day20\SOLID\obj\Debug\net8.0\ref\SOLID.dll
