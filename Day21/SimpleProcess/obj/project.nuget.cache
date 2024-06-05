@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "crUuZQ8PJigAd6JGD/EHhkvv3SHNOri9kJphgfSKFxO1jWJWsY9bLhHSrGFrVmue5NpCqabaT1KOMmLXuzl14A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dewi\\OneDrive\\Documents\\C#\\Clone\\Bootcamp\\Day21\\SimpleProcess\\SimpleProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dewi\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\Dewi\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\Dewi\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
